@@ -1,0 +1,8 @@
+download folder location: 
+C:\Users\NAPS0707\Downloads\
+
+destination folder: 
+C:\Users\NAPS0707\Desktop\Projects\Web_scrapping_tool_msia_moh_drugs\data
+
+code folder:
+C:\Users\NAPS0707\Desktop\Projects\Web_scrapping_tool_msia_moh_drugs
